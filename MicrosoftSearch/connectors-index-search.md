@@ -36,7 +36,7 @@ To search for indexed content, enter the unique identifier of the item in the in
 |Connector name|Input per item ID|Where to find the item ID|
 |:---|:---|:---|
 |ADO WI|ID|The ID is the work item ID.|	
-|ADO Wiki|Organization name, page ID|It can be found in the URL. For example, in this [URL] (https://dev.azure.com/IdentityDivision/DevEx/_wiki/wikis/DevEx.wiki/74398/Passkey-FAQ), OrgName is IdentityDivision and Page Id is 74398.|
+|ADO Wiki|Organization name, page ID|It can be found in the URL. For example, in this [URL](https://dev.azure.com/IdentityDivision/DevEx/_wiki/wikis/DevEx.wiki/74398/Passkey-FAQ), OrgName is IdentityDivision, and Page Id is 74398.|
 |ServiceNow KB|Sys_Id.DisplayValue|Navigate to the record where you are looking for a sys_id, right-click the header bar, and select Copy sys_id.You can also click the Hamburger > Copy sys_id. For more information, see [ServiceNow documentation](https://docs.servicenow.com/csh?topicname=c_UniqueRecordIdentifier.html&version=latest).|
 |ServiceNow Catalog|Sys_Id.value|Navigate to the record where you are looking for a sys_id, right-click the header bar, and select Copy sys_id.You can also click the Hamburger > Copy sys_id. For more information, see [ServiceNow documentation](https://docs.servicenow.com/csh?topicname=c_UniqueRecordIdentifier.html&version=latest).|
 |ServiceNow Tickets|Sys_Id.value|Navigate to the record where you are looking for a sys_id, right-click the header bar, and select Copy sys_id.You can also click the Hamburger > Copy sys_id. For more information, see [ServiceNow documentation](https://docs.servicenow.com/csh?topicname=c_UniqueRecordIdentifier.html&version=latest).|

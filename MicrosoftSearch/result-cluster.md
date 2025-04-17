@@ -72,16 +72,10 @@ To ensure discovery of content from the search verticals, we recommend attributi
 >
 > Ensure that the body “content” of the items is also a meaningful, representative summary or description of the item. Concatenating disjointed pieces of text in content can have an inverse effect on the result cluster triggering.
 
-## Result clusters default settings
+## Result clusters Update
   
-The result cluster experience is turned **off** by default.  Inline results for Graph Connector content in All vertical is turned **on** by default. 
+Graph Connector Content Results Experience Switches to Results Inline in All Vertical.
 
-If you would like to continue using the previous result cluster experience, follow these steps at the organization level: 
+Graph Connector results merged inline in the All vertical on SharePoint (organization level) and Office.com. This means that your users will experience Graph Connector results seamlessly integrated with Microsoft content instead of the current result cluster experience which is bound to a fixed place in the middle of the page and has a maximum of two results from a single custom vertical.
 
-1. In the Microsoft 365 admin center, go to **Verticals**. 
-2. Select the All vertical, then in the “Manage connection results” panel, select “Show results in a cluster.” 
-
-If you would like to disable connector results from All vertical completely, follow these steps at the organization level: 
-
-1. In the Microsoft 365 admin center, go to **Verticals**. 
-2. Select the All vertical, then in the “Manage connection results” panel, turn the “Include connector results” toggle off. 
+With inline Connector results, your users can see as many relevant Connector results as retrieved and ranked for each individual query and determined by underlying AI-based search and ranking system. Users can also use the pagination elements at the bottom of the search result page to browse through results that can include connected content or use the Last Modified- and File Type-filters to refine their search for connected content.

@@ -3,7 +3,7 @@ title: "Search Usage Reports- Analytics"
 ms.author: misvenso
 author: wobba
 manager: scotv
-ms.topic: article
+ms.topic: concept-article
 ms.service: mssearch
 audience: Admin
 ms.audience: Admin

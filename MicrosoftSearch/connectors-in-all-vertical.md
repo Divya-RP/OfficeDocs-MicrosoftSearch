@@ -4,7 +4,7 @@ ms.author: misvenso
 author: mattcloutier
 manager: jameslau
 ms.audience: Admin
-ms.topic: article
+ms.topic: how-to
 ms.service: mssearch
 ms.localizationpriority: medium
 ms.date: 06/17/2024

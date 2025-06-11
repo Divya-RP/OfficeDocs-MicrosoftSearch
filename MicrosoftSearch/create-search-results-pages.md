@@ -4,7 +4,7 @@ ms.author: misvenso
 author: wobba
 manager: wobba
 ms.audience: Admin
-ms.topic: article
+ms.topic: how-to
 ms.service: mssearch
 ms.localizationpriority: medium
 description: "Create your own search results page for a SharePoint Online site"
